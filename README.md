@@ -8,7 +8,7 @@ This project demonstrates how to generate synthetic web server logs, load them i
 
 * Synthetic log data generation (timestamp, IP address, HTTP method, endpoint, status code, response time).
 * Data loading into DuckDB for fast SQL queries.
-* Five main analyses:
+* Six main analyses:
 
   1. Total number of logs.
   2. Status code distribution.
@@ -28,3 +28,4 @@ project_a_logs_analysis/
 ├── requirements.txt       # Dependencies (for local use if needed)
 ├── README.md              # Project documentation
 ```
+
