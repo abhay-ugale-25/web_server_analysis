@@ -24,8 +24,9 @@ This project demonstrates how to generate synthetic web server logs, load them i
 project_a_logs_analysis/
 │
 ├── data/                  # Contains generated CSV logs
-├── notebooks/             # Colab notebooks for log generation & analysis
+├── notebook/             # Colab notebooks for log generation & analysis
 ├── requirements.txt       # Dependencies (for local use if needed)
 ├── README.md              # Project documentation
 ```
+
 
